@@ -4,6 +4,11 @@ import "fmt"
 
 func main() {
 
+	// Default values;
+	// 1. 0 for numeric
+	// 2. false for boolean
+	// 3. "" (empty) for strings
+
 	fmt.Println("go" + "lang")
 
 	fmt.Println("1+1 =", 1+1)

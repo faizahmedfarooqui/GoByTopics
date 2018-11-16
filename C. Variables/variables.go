@@ -18,4 +18,7 @@ func main() {
 
 	f := "short" // Shorthand for var f = "short"
 	fmt.Println(f)
+
+	var g, h, i = true, false, "no!"
+	fmt.Println(g, h, i)
 }
