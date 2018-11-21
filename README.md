@@ -30,3 +30,15 @@
 26. Timeout
 27. NonBlocking-Channel-Operations
 28. Closing-Channels
+29. Range-Over-Channels
+30. Timers
+31. Tickers
+32. Worker-Pools
+33. Rate-Limiting
+34. Atomic-Counters
+35. Mutexes
+36. Stateful-Goroutines
+37. Sorting
+38. SortingByFunctions
+39. Panic
+40. Defer
