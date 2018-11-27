@@ -1,3 +1,7 @@
+/**
+ * What are line filters?
+ * Ans: grep & sed are line filters
+ */
 package main
 
 import (
